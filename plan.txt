@@ -1,0 +1,4 @@
+Next Update
+    1. Tambah tombol untuk memunculkan kembali tombol (home/kembali/refresh?)
+    2. Buat responsif (mungkin pake 5% 5% 90%? atau apa pun agar responsif)
+    3. Tambah fitur lainnya
